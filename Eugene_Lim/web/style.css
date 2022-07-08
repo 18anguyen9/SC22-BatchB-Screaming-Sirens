@@ -1,0 +1,14 @@
+h1{
+    background-color: olive;
+    font-family: courier;
+}
+p{
+    font-size: 30px;
+}
+a{
+    font-size:20px
+}
+html{
+    text-align: center;
+    background-image: url('https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm281-adj-067-job598.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=f9645125894cc7474310a7e2d08969e3');
+}

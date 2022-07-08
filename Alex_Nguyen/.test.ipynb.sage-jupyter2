@@ -1,0 +1,5 @@
+{"backend_state":"init","connection_file":"/projects/375a9615-5617-48b6-a132-fe9d08f3c36b/.local/share/jupyter/runtime/kernel-6a16baf2-fa33-4a09-aa48-25b1d15b3323.json","kernel":"cv_env","kernel_error":"","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"metadata":{"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.8.13"}},"trust":true,"type":"settings"}
+{"cell_type":"code","exec_count":0,"id":"8200dd","input":"","pos":1,"type":"cell"}
+{"cell_type":"code","exec_count":1,"id":"dd2fa0","input":"2+2","output":{"0":{"data":{"text/plain":"4"},"exec_count":1,"output_type":"execute_result"}},"pos":0,"type":"cell"}
+{"id":0,"time":1657216785972,"type":"user"}
+{"last_load":1657216786042,"type":"file"}

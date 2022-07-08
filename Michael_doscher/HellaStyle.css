@@ -1,0 +1,21 @@
+p {
+    margin:auto;
+    color:blue;
+    margin-top: 20px;
+}
+p.center {
+    padding-top: 40px;
+    text-align: center;
+}
+body {
+    background-color:lightblue;
+}
+img {
+    margin:auto;
+    scale:auto;
+    width:50%;
+}
+td {
+    margin:auto;
+    border: solid 4px black;
+}
